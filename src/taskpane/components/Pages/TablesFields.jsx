@@ -165,6 +165,8 @@ const TablesFields = (props) => {
     return stopPolling;
   }, []);
 
+
+  
   return (
     <>
       <Header
